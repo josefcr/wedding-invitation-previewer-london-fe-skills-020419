@@ -1,0 +1,118 @@
+body{
+font-family: 'Roboto Mono', monospace;
+font-family: 'Nanum Gothic', sans-serif;
+background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+  
+}
+
+ header{
+  text-align: center;
+  margin-bottom: 1px;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+
+}
+
+.columncontainer{
+  display: flex;
+  width: 100%;
+}
+
+.column{
+  flex:50%;
+  padding: 10px;
+
+}
+
+form{
+  background-color: white;
+  margin-left: 200px;
+  width:40%;
+  border-radius: 25px;
+}
+
+
+input{
+  padding: 4px;
+  
+
+  
+}
+
+.invite{
+  padding: 20px;
+  
+  
+}
+
+textarea{
+  border: blue;
+
+}
+
+.textinput{
+    padding: 15px;
+    margin-left: 23%;
+    font-size: 20px;
+    margin-right: 20%;
+    
+}
+
+
+
+.table{
+  margin-left: 250px;
+
+}
+
+.button{
+  padding: 7px;  
+  text-align: center;
+  margin: 30px;
+  font-size: 22px;
+}
+
+
+.art{
+font-family: 'Great Vibes', cursive;
+font-size: 35px;
+text-align: center;
+background-image: url('https://images.unsplash.com/photo-1528460033278-a6ba57020470?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80');
+height: 700px;
+width: 555px;
+margin-left: 60px;
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+
+.sea{
+
+font-family: 'Tangerine', cursive;
+font-size: 35px;
+text-align: center;
+background-image: url('https://s3.amazonaws.com/libapps/accounts/6367/images/Hashimoto_Gaho_Landscape_Japanese_Meiji_Period.jpg');  
+height: 700px;
+width: 555px;
+margin-left: 60px;
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+
+.trees{
+font-family: 'Monoton', cursive;
+font-size: 29px;
+text-align: center;
+background-image: url('https://assets.saatchiart.com/saatchi/877065/art/5397129/4466941-VAQFITVU-6.jpg');
+height: 700px;
+width: 555px;
+margin-left: 60px;
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+
+
+/*media tags here*/
+
